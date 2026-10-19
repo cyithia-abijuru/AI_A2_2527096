@@ -1,0 +1,14 @@
+{
+  "rows_before_cleaning": 246,
+  "rows_after_cleaning": 243,
+  "duplicates_removed": 3,
+  "missing_before_cleaning": {
+    "soil_moisture_pct": 12,
+    "fertilizer_kg": 12
+  },
+  "target_leakage_columns_excluded": [
+    "yield_tons",
+    "yield per hectare",
+    "high_risk"
+  ]
+}

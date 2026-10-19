@@ -1,0 +1,23 @@
+{
+  "student_id": "ug2527096@ines.ac.rw",
+  "verification_code": "AI-A2-7096",
+  "metrics": {
+    "mean_baseline": {
+      "MAE": 2.2705309010434673,
+      "RMSE": 2.850128851310023,
+      "R2": -0.0014619687033128326
+    },
+    "linear_regression": {
+      "MAE": 0.9129735905126763,
+      "RMSE": 1.1528150021085104,
+      "R2": 0.8361581996835519
+    },
+    "random_forest": {
+      "MAE": 1.1147077391390323,
+      "RMSE": 1.4641518142193921,
+      "R2": 0.7357118491622103
+    },
+    "selected_model": "linear_regression",
+    "selection_reason": "Selected linear_regression because it had the lower held-out RMSE among candidate models."
+  }
+}

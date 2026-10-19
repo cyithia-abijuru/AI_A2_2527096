@@ -1,0 +1,90 @@
+{
+  "student_id": "ug2527096@ines.ac.rw",
+  "verification_code": "AI-A2-7096",
+  "silhouette_scores_K_2_to_6": {
+    "2": {
+      "silhouette": 0.15700494790721764,
+      "inertia": 1333.3497441874767
+    },
+    "3": {
+      "silhouette": 0.1273390729261415,
+      "inertia": 1224.0234345255474
+    },
+    "4": {
+      "silhouette": 0.14564692902090573,
+      "inertia": 1115.7014294786768
+    },
+    "5": {
+      "silhouette": 0.14752638997137155,
+      "inertia": 1024.3936470970937
+    },
+    "6": {
+      "silhouette": 0.15769501609194836,
+      "inertia": 945.840079229578
+    }
+  },
+  "selected_K": 6,
+  "selection_reason": "K selected by the highest measured silhouette score among K=2..6.",
+  "profiles": [
+    {
+      "cluster": 0,
+      "records": 38,
+      "mean_rainfall_mm": 1231.34,
+      "mean_avg_temp_c": 19.61,
+      "mean_soil_moisture_pct": 48.45,
+      "mean_fertilizer_kg": 124.25,
+      "mean_field_size_ha": 2.51,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    },
+    {
+      "cluster": 1,
+      "records": 39,
+      "mean_rainfall_mm": 987.56,
+      "mean_avg_temp_c": 19.61,
+      "mean_soil_moisture_pct": 43.68,
+      "mean_fertilizer_kg": 74.82,
+      "mean_field_size_ha": 3.18,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    },
+    {
+      "cluster": 2,
+      "records": 41,
+      "mean_rainfall_mm": 800.54,
+      "mean_avg_temp_c": 22.81,
+      "mean_soil_moisture_pct": 40.37,
+      "mean_fertilizer_kg": 125.24,
+      "mean_field_size_ha": 1.92,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    },
+    {
+      "cluster": 3,
+      "records": 42,
+      "mean_rainfall_mm": 1044.35,
+      "mean_avg_temp_c": 17.31,
+      "mean_soil_moisture_pct": 45.84,
+      "mean_fertilizer_kg": 102.35,
+      "mean_field_size_ha": 1.09,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    },
+    {
+      "cluster": 4,
+      "records": 45,
+      "mean_rainfall_mm": 885.01,
+      "mean_avg_temp_c": 15.33,
+      "mean_soil_moisture_pct": 61.14,
+      "mean_fertilizer_kg": 107.59,
+      "mean_field_size_ha": 1.65,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    },
+    {
+      "cluster": 5,
+      "records": 38,
+      "mean_rainfall_mm": 904.46,
+      "mean_avg_temp_c": 20.43,
+      "mean_soil_moisture_pct": 67.81,
+      "mean_fertilizer_kg": 181.12,
+      "mean_field_size_ha": 2.47,
+      "interpretation": "Compare this profile with other clusters; it describes similar input conditions, not a guaranteed yield or a risk diagnosis."
+    }
+  ]
+}
